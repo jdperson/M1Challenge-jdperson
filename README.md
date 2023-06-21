@@ -10,4 +10,4 @@ No installation required, visit [this page](https://jdperson.github.io/horiseon-
 
 ## What to expect
 
-![Webpage Screenshot](./assets/images/FireShot%20Capture%20002%20-%20Horiseon%20-%20Home%20-%20jdperson.github.io.png)
+![Webpage Screenshot](./assets/images/FireShot%20Capture%20003%20-%20Horiseon%20-%20Home%20-%20jdperson.github.io.png)
