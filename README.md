@@ -2,7 +2,7 @@
 
 ## Description
 
-The webpage contains information about Horiseon Social Solution Services, Inc. and serves to demonstrate the students' ability to apply semantic HTML elements, organize and consolidate CSS selectors based off of the HTML structure, and write meaningful comments
+The webpage contains information about Horiseon Social Solution Services, Inc. and serves to demonstrate the students' ability to apply semantic HTML elements and attributes, organize and consolidate CSS selectors based off of the HTML structure, and write meaningful comments
 
 ## Installation
 
