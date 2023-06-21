@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was created to test students' knowledge of semantic HTML tags and the structure and order of CSS code and selectors respectively
+The webpage contains information about Horiseon Social Solution Services, Inc. and serves to demonstrate the students' ability to apply semantic HTML elements, organize and consolidate CSS selectors based off of the HTML structure, and write meaningful comments
 
 ## Installation
 
