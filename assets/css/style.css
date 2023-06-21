@@ -20,7 +20,7 @@ header {
     color: #ffffff;
 }
 
-header h1 {            /* 'header' not necessary here, only one h1. keep for readability */
+header h1 {            /* 'header' not necessary here, only one h1 | keep for structure */
     display: inline-block;
     font-size: 48px;
     color: #d9dcd6;
@@ -66,7 +66,7 @@ a {
     margin-left: 20px;
 }
 
-#content section {      /* .seo, .orm, and .smm styles consolidated here */
+#content section {      /* .s-e-o, .o-r-m, and .s-m-m styles consolidated here */
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -94,7 +94,7 @@ p {
 }
 
 #online-reputation-management img {
-    float: right;       /* .float-right has 1 appearance in index.html, remove and consolidate .float-right */
+    float: right;       /* .float-right consolidated here */
     margin-left: 25px;
 }
 

@@ -5,8 +5,10 @@
         <link rel="stylesheet" href="./assets/css/style.css">
         <title>Horiseon | Home</title>
     </head>
+
     <body>
         <header>
+                            <!-- .seo not referenced in css | removed -->
             <h1>Horiseon</h1>
             <nav>
                 <ul>
@@ -23,9 +25,10 @@
             </nav>
         </header>
 
-            <!-- Decorative, no alt necessary -->
+                            <!-- Decorative, no alt necessary | .hero has 1 appearance -> #hero -->
         <img src="./assets/images/digital-marketing-meeting.jpg" id="hero"/>
 
+                            <!-- .float-left is the only necessary class in main | removed all others -->
         <main id="content">
             <section id="search-engine-optimization">
                 <img src="./assets/images/search-engine-optimization.jpg" 
@@ -57,7 +60,7 @@
                 </p>
             </section>
         </main>
-
+                            <!-- all classes in aside other than .benefits (now #benefits since single ref) are unnecessary due to css structure | removed all others  -->
         <aside id="benefits">
             <section>
                 <h3>Lead Generation</h3>
@@ -83,7 +86,8 @@
                 </p>
             </section>
         </aside>
-        
+
+                            <!-- footer heading should have lowest priority | h2 -> h4 (or any h >3 in this case) -->
         <footer>
             <h4>Made with ❤️️ by Horiseon</h4>
             <p>
