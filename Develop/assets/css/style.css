@@ -78,9 +78,14 @@ p {
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
+    height: 940px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+}
+
+.benefits section {
+    display: flex;
+    flex-direction: column;
 }
 
 .benefit-lead {
